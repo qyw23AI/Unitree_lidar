@@ -1,5 +1,6 @@
 # Unitree Lidar
 
+开机自启动脚本需要放在./config/autostart
 本仓库已将以下项目以 Git 子模块方式接入，便于统一拉取和维护：
 
 - unilidar_sdk
