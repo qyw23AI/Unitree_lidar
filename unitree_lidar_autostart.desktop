@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Unitree Lidar Launcher
+Comment=Auto start Unitree lidar launcher on login
+Exec=/home/r1/Unitree_lidar/unitree_lidar_launcher.sh
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
+X-GNOME-Autostart-Phase=Initialization
+Terminal=false
