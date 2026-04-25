@@ -1,9 +1,9 @@
 [submodule "unilidar_sdk"]
 	path = unilidar_sdk
 	url = https://github.com/unitreerobotics/unilidar_sdk.git
-[submodule "serial_driver_ros2"]
-	path = serial_driver_ros2
-	url = https://github.com/CGC12123/serial_driver_ros2.git
-[submodule "FAST_LIVO2_ROS2_relocation_ultra"]
-	path = FAST_LIVO2_ROS2_relocation_ultra
-	url = https://github.com/Getting05/FAST_LIVO2_ROS2_relocation_ultra.git
+# [submodule "serial_driver_ros2"]
+# 	path = serial_driver_ros2
+# 	url = https://github.com/CGC12123/serial_driver_ros2.git
+# [submodule "FAST_LIVO2_ROS2_relocation_ultra"]
+# 	path = FAST_LIVO2_ROS2_relocation_ultra
+# 	url = https://github.com/Getting05/FAST_LIVO2_ROS2_relocation_ultra.git
